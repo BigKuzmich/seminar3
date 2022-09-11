@@ -89,3 +89,7 @@
     git config --global user.email "вводим емаил"
 
 ## Ветвление
+
+Создать новую ветку можно с помощью
+
+    git branch name_new_branch
